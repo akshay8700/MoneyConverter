@@ -1,0 +1,1 @@
+Money converter UI only
